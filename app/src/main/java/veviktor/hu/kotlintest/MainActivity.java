@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
         WifiManager wm = (WifiManager)getSystemService(Context.WIFI_SERVICE);
         WifiInfo wifiInfo = wm.getConnectionInfo();
-        Log.i("IZEEE", "Teszt");
+        Log.i("IZEEE", "Teszt readme");
     }
 }
