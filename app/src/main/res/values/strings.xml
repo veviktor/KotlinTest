@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">KotlinTest</string>
+    <string name="app_name">KedditBySteps</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Text without findviewByID</string>
 </resources>
