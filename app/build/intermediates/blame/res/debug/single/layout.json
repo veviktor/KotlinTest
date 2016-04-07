@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -16,12 +16,12 @@
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -76,12 +76,12 @@
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
@@ -92,12 +92,12 @@
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
@@ -128,12 +128,12 @@
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -148,12 +148,12 @@
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -164,32 +164,32 @@
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "E:\\Programozas\\Android\\AndroidStudio\\KotlinTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
